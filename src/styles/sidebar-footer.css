@@ -203,7 +203,7 @@ body {
 }
 
 .footer{
-    background-color: rgb(218, 55, 190);
+    background: linear-gradient(to right, #ae2896, #509bf5);
     color: #fff;
     width: 100%;
     padding: 10px;
