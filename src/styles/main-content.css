@@ -39,6 +39,20 @@
   cursor: pointer;
 }
 
+.arrow-left:hover {
+  cursor: pointer;
+  background-color: #1A1A1A;
+  border-radius: 50%;
+  color: #fff;
+}
+
+.arrow-right:hover {
+  cursor: pointer;
+  background-color: #1A1A1A;
+  border-radius: 50%;
+  color: #fff;
+}
+
 .header_login {
   display: flex;
   align-items: center;
