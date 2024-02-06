@@ -46,6 +46,3 @@ Certifique-se de ter a versão mais recente do json-server instalada. Você pode
 [![vittorioaugusto](img/perfil.jpg)](https://github.com/vittorioaugusto) | [Vittorio Augusto](https://github.com/vittorioaugusto)
 | --- | --- |
 
-
-[certificado](../../../Certificados/certificado_imersão_alura.pdf)
-
